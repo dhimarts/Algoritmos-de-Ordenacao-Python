@@ -30,6 +30,24 @@ Também é objetivo garantir condições iguais de teste, utilizando uma semente
 - Exportação dos resultados em CSV, JSON e Markdown
 - Testes automatizados para conferir a ordenação e os contadores
 
+## 🧩 Estrutura do projeto
+
+### 🔹 Implementação dos algoritmos
+
+Os quatro algoritmos foram implementados manualmente em Python. Cada função ordena o vetor recebido e retorna as métricas coletadas durante sua execução.
+
+### 🔹 Preparação dos experimentos
+
+São gerados vetores aleatórios de **10, 20 e 1.000 elementos**. Cada algoritmo recebe uma cópia da mesma entrada por meio de `.copy()`, evitando que a execução de um algoritmo altere os dados utilizados pelos seguintes.
+
+### 🔹 Contagem das operações
+
+O experimento diferencia comparações entre valores, trocas entre posições e escritas realizadas no vetor. Essa separação permite comparar corretamente algoritmos que trabalham por troca com o Insertion Sort, que trabalha principalmente por deslocamentos.
+
+### 🔹 Análise dos resultados
+
+As tabelas apresentam as métricas obtidas na execução. Em seguida, são respondidas as questões analíticas de **a até i**, relacionando os resultados observados às complexidades Big-O.
+
 ## 📚 Aprendizados
 
 - Implementação manual de algoritmos de ordenação em Python
