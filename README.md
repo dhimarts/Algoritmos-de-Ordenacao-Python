@@ -15,7 +15,7 @@ Também é objetivo garantir condições iguais de teste, utilizando uma semente
 ## 🛠️ Tecnologias utilizadas
 
 - Python
-- 
+- Google Colab
 
 ## ⚙️ Funcionalidades
 
