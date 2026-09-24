@@ -1,0 +1,14 @@
+{
+  "python": "3.9.13",
+  "implementacao": "CPython",
+  "semente": 42,
+  "tamanhos_na_ordem_de_geracao": [
+    10,
+    20,
+    1000
+  ],
+  "gerador": "random.randint(1, 10000), extremos inclusivos",
+  "repeticoes_por_combinacao": 1,
+  "quantidade_de_execucoes": 36,
+  "validacao": "Todas as saidas coincidiram com sorted(base)."
+}

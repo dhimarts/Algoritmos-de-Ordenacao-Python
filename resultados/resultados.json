@@ -1,0 +1,326 @@
+[
+  {
+    "tamanho": 10,
+    "cenario": "Aleatorio",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 44,
+    "trocas": 19,
+    "movimentacoes": 38,
+    "total": 82
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Aleatorio",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 27,
+    "trocas": 0,
+    "movimentacoes": 28,
+    "total": 55
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Aleatorio",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 45,
+    "trocas": 7,
+    "movimentacoes": 14,
+    "total": 59
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Aleatorio",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 29,
+    "trocas": 7,
+    "movimentacoes": 14,
+    "total": 43
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Ordenado",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 9,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 9
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Ordenado",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 9,
+    "trocas": 0,
+    "movimentacoes": 9,
+    "total": 18
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Ordenado",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 45,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 45
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Ordenado",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 45,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 45
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Inverso",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 45,
+    "trocas": 45,
+    "movimentacoes": 90,
+    "total": 135
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Inverso",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 45,
+    "trocas": 0,
+    "movimentacoes": 54,
+    "total": 99
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Inverso",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 45,
+    "trocas": 5,
+    "movimentacoes": 10,
+    "total": 55
+  },
+  {
+    "tamanho": 10,
+    "cenario": "Inverso",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 45,
+    "trocas": 5,
+    "movimentacoes": 10,
+    "total": 55
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Aleatorio",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 189,
+    "trocas": 84,
+    "movimentacoes": 168,
+    "total": 357
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Aleatorio",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 99,
+    "trocas": 0,
+    "movimentacoes": 103,
+    "total": 202
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Aleatorio",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 190,
+    "trocas": 16,
+    "movimentacoes": 32,
+    "total": 222
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Aleatorio",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 58,
+    "trocas": 28,
+    "movimentacoes": 56,
+    "total": 114
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Ordenado",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 19,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 19
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Ordenado",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 19,
+    "trocas": 0,
+    "movimentacoes": 19,
+    "total": 38
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Ordenado",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 190,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 190
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Ordenado",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 190,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 190
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Inverso",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 190,
+    "trocas": 190,
+    "movimentacoes": 380,
+    "total": 570
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Inverso",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 190,
+    "trocas": 0,
+    "movimentacoes": 209,
+    "total": 399
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Inverso",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 190,
+    "trocas": 10,
+    "movimentacoes": 20,
+    "total": 210
+  },
+  {
+    "tamanho": 20,
+    "cenario": "Inverso",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 190,
+    "trocas": 10,
+    "movimentacoes": 20,
+    "total": 210
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Aleatorio",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 499122,
+    "trocas": 239681,
+    "movimentacoes": 479362,
+    "total": 978484
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Aleatorio",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 240670,
+    "trocas": 0,
+    "movimentacoes": 240680,
+    "total": 481350
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Aleatorio",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 499500,
+    "trocas": 992,
+    "movimentacoes": 1984,
+    "total": 501484
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Aleatorio",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 10385,
+    "trocas": 4543,
+    "movimentacoes": 9086,
+    "total": 19471
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Ordenado",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 999,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 999
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Ordenado",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 999,
+    "trocas": 0,
+    "movimentacoes": 999,
+    "total": 1998
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Ordenado",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 499500,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 499500
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Ordenado",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 499500,
+    "trocas": 0,
+    "movimentacoes": 0,
+    "total": 499500
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Inverso",
+    "algoritmo": "Bubble Sort",
+    "comparacoes": 499500,
+    "trocas": 499456,
+    "movimentacoes": 998912,
+    "total": 1498412
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Inverso",
+    "algoritmo": "Insertion Sort",
+    "comparacoes": 499496,
+    "trocas": 0,
+    "movimentacoes": 500455,
+    "total": 999951
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Inverso",
+    "algoritmo": "Selection Sort",
+    "comparacoes": 499500,
+    "trocas": 517,
+    "movimentacoes": 1034,
+    "total": 500534
+  },
+  {
+    "tamanho": 1000,
+    "cenario": "Inverso",
+    "algoritmo": "Quick Sort",
+    "comparacoes": 483534,
+    "trocas": 517,
+    "movimentacoes": 1034,
+    "total": 484568
+  }
+]
